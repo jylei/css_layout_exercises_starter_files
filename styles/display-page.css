@@ -1,7 +1,14 @@
 main {
+	font-size:0px;
+	margin-top: 8%;
+}
+
+
+.box{
 	max-width: 800px;
 	max-height:500px;
-	font-size:0px;
+	margin-left:auto;
+	margin-right:auto;
 
 }
 
@@ -9,8 +16,8 @@ main {
 	height: 200px;
 	width:50%;
 	display:inline-block;
-	font-size: 0;
 	border:1px solid black;
+
 }
 
 .upper-one {
@@ -29,8 +36,8 @@ main {
 	height: 300px;
 	width: 33.33%;
 	display: inline-block;
-	font-size: 0;
 	border: 1px solid black;
+
 }
 
 .lower-one {
